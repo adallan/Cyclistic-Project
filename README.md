@@ -41,7 +41,7 @@ Aggerations made:
  
 Trends found:
 
-Average ride length for casual members of 28.6 min and 12.2 min for annual members. Docked bikes are used the least but only by casual riders. Casual riders used service most on Saturday than Sunday, whereas annual members were consistent throughout the week with most trips in midweek(Wednesday). Casual riders use electric bikes the most, Annual are close to even on classic and electric. Classic bikes get the highest ride lengths. Casual riders use Streeter Dr & Grand ave station the most. Followed by DuSable Lake Shore Dr & Monroe street station. Annual members tend to not have a preference or use all stations consistently. Most trips are in the afternoon.
+Average ride length for casual members of 22.3 min and 12.2 min for annual members. Docked bikes are used the least but only by casual riders. Casual riders used service most on Saturday than Sunday, whereas annual members were consistent throughout the week with most trips in midweek(Wednesday). Casual riders use electric bikes the most, Annual are close to even on classic and electric. Classic bikes get the highest ride lengths. Casual riders use Streeter Dr & Grand ave station the most. Followed by DuSable Lake Shore Dr & Monroe street station. Annual members tend to not have a preference or use all stations consistently. Most trips are in the afternoon.
 
 Analysis Conclusion:
 
