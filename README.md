@@ -4,8 +4,8 @@ A case study of Cyclistic bike sharing company based on a real-world Chicago-bas
 
 Ask Phase:
 
-Business Task: How do annual members and casual riders use Cyclistic's bike-sharing service differently? Goal to Solve: How to convert more casual riders into annual members
-Stakeholders for this project: Lily Moreno, director of marketing/my manager The Marketing analytics team, my peers Cyclistic's Executive Team, decides whether or not to approve my recommendations
+Business Task: How do annual members and casual riders use Cyclistic's bike-sharing service differently? Goal to Solve: How to convert more casual riders into annual members.
+Stakeholders for this project: Lily Moreno, director of marketing/my manager The Marketing analytics team, my peers Cyclistic's Executive Team, decides whether or not to approve my recommendations.
 
 Prepare Phase:
 
@@ -49,8 +49,8 @@ Casual riders ride longer and more on the weekends. Whereas annual members ride 
 
 Recommendations:
 
-  1. Casual members use the service for longer during the weekends, especially during the summer months. I recommend targeting ads involving weekend deals during the summer for annual memberships
-  2. I recommend positioning ads at the following locations to reach the highest possible number of casual riders: Streeter Dr & Grand ave station, DuSable Lake Shore Dr & Monroe street station and Millennium Park
-  3. Classic bikes are used for the longest trips and electric are used more often but for shorter periods. I recommend considering a marketing campaign for annual price discounts for longer trips as well as one for using electric bikes to entice more casual to annual member conversions
+  1. Casual members use the service for longer during the weekends, especially during the summer months. I recommend targeting ads involving weekend deals during the summer for annual memberships.
+  2. I recommend positioning ads at the following locations to reach the highest possible number of casual riders: Streeter Dr & Grand ave station, DuSable Lake Shore Dr & Monroe street station and Millennium Park.
+  3. Classic bikes are used for the longest trips and electric are used more often but for shorter periods. I recommend considering a marketing campaign for annual price discounts for longer trips as well as one for using electric bikes to entice more casual to annual member conversions.
 
-Thank you for reading! Please see other pages for SQL code and presentation slides and data visualizations
+Thank you for reading! Please see other pages for SQL code and presentation slides and data visualizations.
