@@ -53,4 +53,4 @@ Recommendations:
   2. I recommend positioning ads at the following locations to reach the highest possible number of casual riders: Streeter Dr & Grand ave station, DuSable Lake Shore Dr & Monroe street station and Millennium Park.
   3. Classic bikes are used for the longest trips and electric are used more often but for shorter periods. I recommend considering a marketing campaign for annual price discounts for longer trips as well as one for using electric bikes to entice more casual to annual member conversions.
 
-Thank you for reading! Please see other pages for SQL code and presentation slides and data visualizations.
+Thank you for reading! Please see other pages for SQL code, presentation slides and data visualizations.
