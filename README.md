@@ -1,4 +1,4 @@
-Cyclistic-Project
+# Cyclistic-Project
 
 A case study of Cyclistic bike sharing company based on a real-world Chicago-based company.
 
@@ -16,7 +16,7 @@ Process Phase:
 Tools used: Bigquerry for SQL processing, analyzing and cleaning. The data set is too large for analysis in excel or sheets. Bigquerry has google cloud support that will allow for importing and storing the necessary file sizes of the data sets Tableau public for visualizations. Dashboards in Tableau are interactable and show in-depth information as well as being highly flexible and customizable. Google sheets will be used as a bridge between Bigquerry and tableau. Google slides will be used for presentation deliverables.
 Please see the SQL query page for in-depth code on how the cleaning process was executed.
 
-Data Cleaning Process:
+## Data Cleaning Process:
 
 Downloaded 13 months' worth of data from divvy-trips and renamed files to be able to be found easier later on.
 Uploaded October 2021 to October 2022 as distinct tables into Bigquerry. Utilizing google cloud's bucket system as a full data set exceeds 1.2 gigs.
@@ -28,7 +28,7 @@ Filtered out station_id, end_station, and end_station_id as they were redundant 
 Deleted temp tables used to create a master data table.
 Exploration of the master table revealed negative ride lengths from improper data collection. Deleted these rows and checked to ensure no other anomalies.
 
-Analysis Process:
+## Analysis Process:
 
 Aggerations made:
   1. Counts of weekday casual vs annual members with bike types and ride lengths.
@@ -47,7 +47,7 @@ Analysis Conclusion:
 
 Casual riders ride longer and more on the weekends. Whereas annual members ride consistently throughout the week but slightly less on weekends. Docked bikes are the least popular, electric is the most popular and classic is nearly as used as electric but get the longest trips per usage. For Casual members, Streeter Dr & Grand ave station is used the most followed by DuSable Lake Shore Dr & Monroe street station and Millennium Park.
 
-Recommendations:
+## Recommendations:
 
   1. Casual members use the service for longer during the weekends, especially during the summer months. I recommend targeting ads involving weekend deals during the summer for annual memberships.
   2. I recommend positioning ads at the following locations to reach the highest possible number of casual riders: Streeter Dr & Grand ave station, DuSable Lake Shore Dr & Monroe street station and Millennium Park.
